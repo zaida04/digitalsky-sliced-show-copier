@@ -3,6 +3,8 @@
 
 ## ⚡ Usage
 ```
+https://github.com/zaida04/digitalsky-sliced-show-copier.git show-copier
+cd show-copier
 python src/main.py
 ```
 
