@@ -6,7 +6,7 @@
 python main.py
 ```
 
-## About
+## 📝 About
 This utility was created for DigitalSky renderer PC setup. The purpose for this tool was to help move show `.dsi` and `.mpg` files split into 7 parts from one folder on a renderer to another folder on that same renderer and to also copy it to the `DS-MASTER` computer. Made so that others can easily adapt it for their own setup by simply editing the `render_pc_paths` list.
 
 ## ✋ Contributing
