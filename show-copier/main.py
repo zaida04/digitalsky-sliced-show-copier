@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from tkinter import Tk    
 from tkinter.filedialog import askopenfilename, askdirectory
 from os import makedirs, path as OSPath
