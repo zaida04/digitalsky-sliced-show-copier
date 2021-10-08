@@ -1,5 +1,5 @@
 # `digitalsky-util-scripts`  
-Utilities for file, io, button creation, asset management, and more for DigitalSky DarkMatter.
+Utilities for file, io, button creation, asset management, and more for [DigitalSky DarkMatter](https://skyskan.com/products/digital-planetarium-systems/).
 
 ## ⚡ Usage
 ```
@@ -11,7 +11,7 @@ python <script-to-run-folder>/main.py
 ## 📝 About
 This collection of utilities was created for a DigitalSky renderer PC setup. At its current state, DarkMatter is a buggy and sometimes lacking piece of software, which this utility aims to solve by providing missing functionality.
 
-## Scripts
+## 📜 Scripts
 ### [`sliced-show-copier`](https://github.com/zaida04/digitalsky-util-scripts/blob/main/show-copier/main.py)
 **Location:** [`show-copier/`](https://github.com/zaida04/digitalsky-util-scripts/blob/main/show-copier/main.py)  
 **Description:** Copy all the sliced files corresponding to a renderer from one dir on the renderer to another.  
