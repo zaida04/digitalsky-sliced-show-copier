@@ -3,7 +3,7 @@
 
 ## ⚡ Usage
 ```
-python main.py
+python src/main.py
 ```
 
 ## 📝 About
