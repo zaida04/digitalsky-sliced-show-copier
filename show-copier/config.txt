@@ -1,0 +1,7 @@
+NORMAL Ds-01 
+NORMAL Ds-02 
+NORMAL Ds-03 
+NORMAL Ds-04 
+NORMAL Ds-05 
+NORMAL Ds-sound VIDEO 6 
+COPY Ds-fisheye 7 Ds-master 0
